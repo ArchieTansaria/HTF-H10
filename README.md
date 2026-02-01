@@ -1,8 +1,8 @@
-# 🚀 HackToFuture 3.0 Repository Setup Guide
+# HackToFuture 3.0 Repository Setup Guide
 #### To track your progress and collaborate effectively, every team must fork the official repository and follow the steps below.
 <br>
 
-# 🔱 Fork the Repository
+# Fork the Repository
  #### Go to the GitHub page https://github.com/HackToFuture/HTF-XNN <br>
   #### Click on the "Fork" button in the upper-right corner of the page.
   #### Assign the repository name as "HTF - *<Team_Code>*".
@@ -16,7 +16,7 @@
   Repository Name : HTF-A09
 ```
 
-# 📥 Clone Your Forked Repository
+# Clone Your Forked Repository
   #### Go to your forked repository on GitHub.
   #### Click the green "Code" button, then click the clipboard icon to copy the URL.
 
@@ -29,10 +29,10 @@
 ```
 
 
-# 🛠️ Start working on your project
+# Start working on your project
 #### Begin building your solution! Collaborate with your teammates and push changes regularly.
 
-# 📝 Commit Your Changes
+# Commit Your Changes
 #### Track and save your progress using Git:
 #### Check the status of your changes
    ```
@@ -74,12 +74,12 @@ git commit -m "<type>(<scope>): <subject>"
 Example: git commit -m "fix(button): fix submit button not working"
 ```
 
-# 🚀 Push Your Changes
+# Push Your Changes
   #### Send your local commits to GitHub:
   ```
     git push origin
  ```
-# 🧠 Tips
+# Tips
 #### *Commit often* : Small, frequent commits help track progress and fix bugs easily.
 #### *Write clear messages* : Describe what you did in each commit.
 #### *Collaborate* : Make sure everyone in your team contributes.
